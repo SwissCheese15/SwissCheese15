@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/SwissCheese15/SwissCheese15/blob/main/208746.gif" align="left" width="250" height="250" margin-right="20"/>
+<img src="https://github.com/SwissCheese15/SwissCheese15/blob/main/208746.gif" align="left" width="200" height="200" margin-right="20"/>
 <br><br>&nbsp;&nbsp;
 - 🖥️ I’m currently working on the final project for my Bootcamp. <br>&nbsp;&nbsp;
 - 💞️ I’m looking to collaborate on intressting projects, big or small<br>&nbsp;&nbsp;
