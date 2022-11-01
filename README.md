@@ -4,5 +4,5 @@
   e-mail manuelwinkler@bluewin.ch <br>
   linkedIn www.linkedin.com/in/manuel-winkler-software-developer
   
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![hacker cat]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/SwissCheese15/SwissCheese15/blob/main/208746.gif) "Hacker cat")
 
